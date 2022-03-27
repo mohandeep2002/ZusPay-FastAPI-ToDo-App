@@ -19,8 +19,7 @@ FastAPI ->(https://fastapi.tiangolo.com/)
 Running of Uvicorn server 
   * Navigate to todo folder 
   * Open CMD in todo folder 
-  * To create virtual an environment  ```python -m venv venv```
-  * ```.\venv\scripts\activate```
+  * To activate the virtual env ```.\venv\scripts\activate```
   * ```pip install -r requirements.txt```
   * ```uvicorn main:app --reload``` -> To Run the uvicorn Server
   * Open http://localhost:8000/docs to explore the fastapi GUI
