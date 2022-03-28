@@ -19,7 +19,7 @@ class App extends Component {
           <Navbar expand="lg" variant="" bg="">
             <Container className="App">
               <Navbar.Brand href="">
-                <h1>FastAPI - Zuspay - ToDo App</h1>
+                <h1>FastAPI - Zupay - ToDo App</h1>
               </Navbar.Brand>
             </Container>
           </Navbar>
