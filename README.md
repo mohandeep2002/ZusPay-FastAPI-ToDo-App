@@ -1,4 +1,4 @@
-# ZusPay-FastAPI-ToDo-App
+# ZuPay-FastAPI-ToDo-App
 
 
 ## Back-end ```ZusPay-FastAPI-ToDo-App/todo/```
